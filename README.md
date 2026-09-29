@@ -76,7 +76,6 @@ Ao montar o caderno, algumas fontes (como ResearchGate, Scribd e Cantor's Paradi
 7. `Gere um glossário com os 15 termos mais importantes das minhas fontes.`
 8. `Responda apenas com base nas fontes e diga "não consta nas fontes" quando não houver informação.`
 
-## ✅ Aprendizados
 
 ## ✅ Aprendizados
 
